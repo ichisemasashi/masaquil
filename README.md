@@ -1,6 +1,7 @@
 # masaquil
 
 A Quil sketch designed to ... well, that part is up to you.
+This is a [quil](https://github.com/quil/quil) application. My hoby project.
 
 ## Usage
 
